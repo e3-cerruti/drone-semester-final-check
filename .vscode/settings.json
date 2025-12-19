@@ -1,0 +1,10 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=827846
+  // This file enables VS Code to automatically open the README.md on folder open
+  "files.exclude": {
+    ".*": true
+  },
+  "files.defaultLanguage": "python",
+  "workbench.startupEditor": "readme",
+  "python.pythonPath": ".venv/bin/python"
+}
